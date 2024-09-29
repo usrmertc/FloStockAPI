@@ -1,0 +1,6 @@
+@FloAPI_HostAddress = http://localhost:5268
+
+GET {{FloAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
